@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-
+them dong thu 2 ne
 import './App.css';
 import {table} from 'reactstrap';
 import Post from './post';
